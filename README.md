@@ -1,0 +1,2 @@
+# MMSeg_HW3_VOC2012
+使用mmsegmentation对Pascal VOC 2012数据集训练分割器
